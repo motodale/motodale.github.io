@@ -3,7 +3,7 @@ title: My corner of the internet.
 email: dale.n.tibbetts@gmail.com
 description: "Somewhere in space"
 baseurl: ""
-url: "http://motodale.io"
+url: "http://motodale.github.io"
 
 # Build settings
 markdown: kramdown
