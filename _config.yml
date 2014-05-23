@@ -4,6 +4,7 @@ email: dale.n.tibbetts@gmail.com
 description: "Somewhere in space"
 baseurl: ""
 url: "http://motodale.github.io"
+username: "motodale"
 
 # Build settings
 markdown: kramdown
